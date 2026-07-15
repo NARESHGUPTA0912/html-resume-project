@@ -37,10 +37,9 @@ html-resume-project/
 
 ### Resume Page
 
-```markdown
-![Resume](screenshots/Screenshot_1)
-![Resume](screenshots/Screenshot_2)
-```
+![](screenshots/Screenshot_1.png)
+
+![](screenshots/Screenshot_2.png)
 
 ## ▶️ How to Run
 
