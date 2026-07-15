@@ -4,7 +4,7 @@ A personal resume webpage built using **pure HTML** to practice HTML fundamental
 
 ## 🌐 Live Demo
 
-https://html-resume-project-three.vercel.app/
+https://nareshgupta-resume.vercel.app/
 
 ## 📌 Project Overview
 
