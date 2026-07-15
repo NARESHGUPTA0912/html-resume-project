@@ -2,6 +2,10 @@
 
 A personal resume webpage built using **pure HTML** to practice HTML fundamentals and semantic elements.
 
+## 🌐 Live Demo
+
+https://html-resume-project-three.vercel.app/
+
 ## 📌 Project Overview
 
 This project is a static resume webpage created without using CSS or JavaScript. It demonstrates the use of basic HTML elements to organize and present personal, educational, and professional information in a structured format.
